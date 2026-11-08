@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mi Plato Inteligente · Vista previa de iconos</title>
+<style>
+:root { color-scheme: light; --cream: #f5f0e6; --paper: #fffdf8; --forest: #234735; --sage: #8fa58a; --sage-pale: #e5eadf; }
+* { box-sizing: border-box; }
+body { margin: 0; min-height: 100vh; padding: clamp(24px, 5vw, 64px); color: var(--forest); background: radial-gradient(ellipse at 12% 8%, #e5eadf 0, transparent 34%), var(--cream); font-family: Georgia, "Times New Roman", serif; }
+header { max-width: 1040px; margin: 0 auto 30px; }
+.eyebrow { margin: 0 0 8px; color: #607963; font: 600 12px/1.4 system-ui, sans-serif; letter-spacing: .16em; text-transform: uppercase; }
+h1 { margin: 0; font-size: clamp(28px, 4vw, 42px); font-weight: 500; letter-spacing: -.025em; }
+.intro { margin: 10px 0 0; color: #586c5c; font: 15px/1.6 system-ui, sans-serif; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px; max-width: 1040px; margin: 0 auto; }
+.card { min-height: 174px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px; padding: 20px 14px; border: 1px solid #d9dfd3; border-radius: 18px; background: rgba(255,253,248,.88); box-shadow: 0 8px 24px rgba(35,71,53,.055); }
+.icon-wrap { width: 82px; height: 82px; display: grid; place-items: center; border-radius: 24px; background: var(--sage-pale); }
+.icon-wrap img { display: block; width: 64px; height: 64px; }
+.card h2 { margin: 0; text-align: center; font: 600 14px/1.3 system-ui, sans-serif; letter-spacing: .01em; }
+footer { max-width: 1040px; margin: 22px auto 0; color: #718072; font: 12px/1.5 system-ui, sans-serif; }
+</style>
+</head>
+<body>
+<header><p class="eyebrow">Mi Plato Inteligente · Sistema visual</p><h1>Iconos de la aplicación</h1><p class="intro">Previsualización de los diez SVG sobre tonos crema y verde salvia.</p></header>
+<main class="grid" aria-label="Vista previa de iconos">
+<article class="card"><div class="icon-wrap"><img src="salud.svg" alt=""></div><h2>Salud</h2></article>
+<article class="card"><div class="icon-wrap"><img src="condiciones-salud.svg" alt=""></div><h2>Condiciones de salud</h2></article>
+<article class="card"><div class="icon-wrap"><img src="medicamentos.svg" alt=""></div><h2>Medicamentos</h2></article>
+<article class="card"><div class="icon-wrap"><img src="alergias.svg" alt=""></div><h2>Alergias</h2></article>
+<article class="card"><div class="icon-wrap"><img src="alimentacion.svg" alt=""></div><h2>Alimentación</h2></article>
+<article class="card"><div class="icon-wrap"><img src="calendario.svg" alt=""></div><h2>Calendario</h2></article>
+<article class="card"><div class="icon-wrap"><img src="tiempo.svg" alt=""></div><h2>Tiempo</h2></article>
+<article class="card"><div class="icon-wrap"><img src="porciones.svg" alt=""></div><h2>Porciones</h2></article>
+<article class="card"><div class="icon-wrap"><img src="nutricion.svg" alt=""></div><h2>Nutrición</h2></article>
+<article class="card"><div class="icon-wrap"><img src="lista-compras.svg" alt=""></div><h2>Lista de compras</h2></article>
+</main>
+<footer>Fondo crema con acentos salvia. Los iconos conservan sus archivos SVG independientes.</footer>
+</body>
+</html>

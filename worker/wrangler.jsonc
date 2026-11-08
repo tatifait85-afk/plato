@@ -1,0 +1,27 @@
+{
+  // Worker de Mi Plato Inteligente: único punto que se comunica con Google Gemini.
+  // La clave GEMINI_API_KEY NO va en este archivo: se guarda como secreto de Cloudflare
+  // (ver instrucciones: npx wrangler secret put GEMINI_API_KEY).
+  "name": "mi-plato-inteligente-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-08",
+
+  "vars": {
+    // Modelo de Gemini (no es secreto). Se puede cambiar aquí sin tocar el código.
+    "GEMINI_MODEL": "gemini-3.8-flash",
+    // Orígenes del sitio que pueden llamar a este Worker, separados por coma
+    // (ejemplo de formato: "https://dominio-del-sitio.com").
+    // Vacío = ningún navegador externo puede llamarlo (las pruebas con curl sí funcionan).
+    "ALLOWED_ORIGINS": ""
+  },
+
+  // Límite de solicitudes por dirección IP (Cloudflare Rate Limiting).
+  // namespace_id debe ser un número único dentro de su cuenta de Cloudflare.
+  "ratelimits": [
+    {
+      "name": "RATE_LIMITER",
+      "namespace_id": "5810",
+      "simple": { "limit": 10, "period": 60 }
+    }
+  ]
+}

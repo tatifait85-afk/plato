@@ -1,0 +1,11 @@
+# Claves y secretos: nunca deben subirse a GitHub
+.dev.vars
+.dev.vars.*
+.env
+.env.*
+*.pem
+*.key
+
+# Dependencias y archivos temporales de Wrangler
+node_modules/
+.wrangler/
