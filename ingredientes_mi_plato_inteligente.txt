@@ -1,0 +1,50 @@
+MI PLATO INTELIGENTE Biblioteca de ingredientes habituales del hogar
+
+1.  CARNES Y AVES Pollo Pechuga de pollo Muslos de pollo Carne molida de
+    res Carne de res en trozos Bistec de res Carne de cerdo Chuleta de
+    cerdo Lomo de cerdo Tocino Jamón Salchichas Pavo Carne molida de
+    pavo Hígado de res
+
+2.  PESCADOS Y MARISCOS Atún enlatado Sardinas Salmón Tilapia Corvina
+    Pescado blanco Camarones Calamares Mejillones Pescado enlatado
+
+3.  HUEVOS Y LÁCTEOS Huevos Leche Leche deslactosada Leche de almendras
+    Leche de soya Leche de coco Yogur natural Yogur griego Kéfir Queso
+    fresco Queso mozzarella Queso cheddar Queso parmesano Queso crema
+    Natilla Mantequilla Crema de leche
+
+4.  VERDURAS Y HORTALIZAS Tomate Tomate cherry Cebolla blanca Cebolla
+    morada Cebollino Ajo Zanahoria Papa Camote Yuca Ayote Zapallo
+    Chayote Zucchini Pepino Chile dulce Chile picante Brócoli Coliflor
+    Repollo Lechuga Espinaca Acelga Apio Berenjena Remolacha Vainicas
+    Maíz dulce Hongos Palmito Culantro Perejil Albahaca Espárragos
+
+5.  FRUTAS Banano Plátano maduro Plátano verde Manzana Pera Naranja
+    Mandarina Limón Limón mandarina Papaya Piña Mango Sandía Melón
+    Fresas Uvas Aguacate Maracuyá Guayaba Kiwi Coco Durazno
+
+6.  GRANOS, CEREALES Y LEGUMBRES Arroz blanco Arroz integral Frijoles
+    negros Frijoles rojos Lentejas Garbanzos Arvejas Quinoa Avena Cebada
+    Maíz Harina de maíz Harina de trigo Harina integral Pasta Espaguetis
+    Macarrones Fideos Cuscús Tortillas de maíz Tortillas de harina Pan
+    blanco Pan integral Pan cuadrado Pan molido
+
+7.  FRUTOS SECOS Y SEMILLAS Maní Almendras Nueces Marañones Avellanas
+    Semillas de chía Linaza Semillas de ajonjolí Semillas de girasol
+    Semillas de calabaza Mantequilla de maní
+
+8.  ACEITES, GRASAS Y CONDIMENTOS Aceite de oliva Aceite vegetal Aceite
+    de coco Vinagre blanco Vinagre de manzana Salsa de soya Salsa
+    inglesa Mostaza Mayonesa Kétchup Sal Pimienta Orégano Comino Cúrcuma
+    Paprika Curry Canela Jengibre Nuez moscada Laurel Romero Tomillo
+    Vainilla Miel Azúcar Azúcar moreno
+
+9.  ENLATADOS Y PRODUCTOS DE DESPENSA Tomate triturado Pasta de tomate
+    Maíz enlatado Guisantes enlatados Frijoles enlatados Garbanzos
+    enlatados Palmito enlatado Leche de coco enlatada Aceitunas
+    Alcaparras Pepinillos Caldo de pollo Caldo de verduras Sopas
+    enlatadas
+
+10. ALTERNATIVAS VEGETALES Y OTROS Tofu Tempeh Proteína de soya Seitán
+    Levadura nutricional Bebida de avena Bebida de arroz Harina de
+    almendras Harina de coco Fécula de maíz Tapioca
