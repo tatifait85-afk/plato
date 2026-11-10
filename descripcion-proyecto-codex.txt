@@ -1,0 +1,67 @@
+MI PLATO INTELIGENTE - DESCRIPCION DEL PROYECTO PARA CODEX
+Fecha: 2026-11-10
+
+1. QUE ES
+Mi Plato Inteligente es una pagina de pruebas de Salud Integral (Tatiana Fait Shaw, Costa Rica) que sugiere recetas y menus segun el perfil de la persona: alergias, alimentos que evita, tipo de alimentacion (omnivora, vegetariana, vegana, pescetariana, principalmente vegetal), condiciones de salud, cocinas preferidas, tiempo disponible y porciones. Ofrece dos modos: "Hoy" (2 recetas completas) y "Plan" (menu de 7 dias con lista de compras; la receta de cada comida se pide al abrirla).
+Estado: SOLO PRUEBA. No esta integrada al sitio principal y no debe integrarse sin autorizacion expresa de Tati.
+Idiomas: espanol (trato formal de "usted", sin repetir el pronombre) e ingles.
+Direccion: https://saludintegral.site/plato-prueba/
+
+2. COMO FUNCIONA (RESUMEN)
+- Pagina estatica: un solo index.html con JavaScript propio (sin librerias), guarda el avance en localStorage ("mpi-v1").
+- Catalogo de platos en platos.js. Reglas de seguridad alimentaria en reglas.js (alergias, evitar, dietas; revisa nombres e ingredientes).
+- La pagina filtra el catalogo segun el perfil y envia a un Worker de Cloudflare (mi-plato-inteligente-api) una lista de platos candidatos; el Worker consulta a Gemini y devuelve la receta en JSON. Cada receta se vuelve a validar en la pagina antes de mostrarse; si no cumple, se descarta.
+- Gemini solo debe escribir el identificador del plato (el id) en el campo "plato".
+- La foto de cada plato se carga por el id: img/platos/<id>.webp
+
+3. ARCHIVOS
+Carpeta: salud-integral-v20/dist/plato-prueba/ (repositorio GitHub tatifait85-afk/salud-integral, rama main)
+- index.html: toda la interfaz y la logica.
+- platos.js: catalogo. Cada plato es [id, [cocinas], [etiquetas], minutos]. Ejemplo:
+  ["sopa-negra-costarricense", ["costarricense"], ["huevo"], 60]
+- reglas.js: etiquetas, alias y reglas de alergias/dietas.
+- img/platos/<id>.webp: foto de cada plato (hoy 90 fotos).
+- img/ (resto): iconos y fotos de las preguntas.
+- Documentos relacionados: salud-integral-v20/docs/plato-condiciones-salud-medicamentos.md
+
+4. CATALOGO
+- Hoy: 90 platos. Meta: 24 por cocina, 9 cocinas (216 platos): Mediterranea, Costarricense, Estadounidense, Mexicana, China, Italiana, Caribena, India, Japonesa.
+- Faltan 125 platos nuevos. Su lista, con nombre y descripcion visual, esta en el archivo descripciones-imagenes-platos.txt.
+- Ids: minusculas, sin tildes ni enie, palabras separadas con guiones. El id debe describir el plato porque la pagina detecta alergenos leyendo el nombre. Por eso NO usar negaciones en el id (mal: "arroz-frito-sin-huevo", se leeria como huevo) y evitar palabras que sugieran un alergeno que el plato no tiene.
+- Etiquetas validas (solo ingredientes tradicionales o visibles en la foto): leche, huevo, pescado, crustaceo, molusco, mani, soya, trigo, gluten_otros, nueces, sesamo, sulfitos, carne, ave, embutido, gelatina, miel. Un plato sin alergenos especiales lleva [].
+- No hay etiqueta de tipo de comida (desayuno/almuerzo/cena) todavia; esta pendiente.
+
+5. TAREA PARA CODEX: IMAGENES
+Generar las 125 imagenes de platos nuevos descritas en descripciones-imagenes-platos.txt.
+Estilo (igual al de las fotos actuales):
+- Fotografia de comida vista desde arriba, en angulo de unos 60 grados.
+- Plato o tazon de ceramica rustica crema o beige, sobre piedra o lino beige claro.
+- Luz natural suave; algunas hojas verdes o tela de lino al fondo.
+- Un solo plato protagonista, bien servido y apetitoso, colores naturales.
+- Sin personas, sin manos, sin texto, sin marcas ni logotipos.
+Formato: cuadrado 480x480 px, .webp, nombre de archivo exacto: <id>.webp (ejemplo: moros-cristianos.webp).
+Calidad: peso liviano (idealmente menos de 60 KB cada una); el repositorio de Tati tiene poco espacio, por eso no se deben agregar archivos innecesarios (copias, respaldos, zips).
+Ademas, 3 platos existentes cambiaron y necesitan foto nueva que reemplace la actual:
+- mini-sandwiches-lentejas.webp: mini sandwiches integrales con relleno vegano de lentejas.
+- sushi-pescado.webp: sushi con pescado (ahora lleva pescado).
+- picadillo-papa-carne.webp: picadillo de papa con carne molida (tradicional de Costa Rica).
+
+6. REGLAS DE TRABAJO (IMPORTANTES)
+- No cambiar el diseno ni el contenido de la pagina existente; adaptar lo nuevo a lo que ya hay.
+- No subir nada a GitHub ni publicar sin que Tati lo pida expresamente.
+- No integrar al sitio principal saludintegral.site.
+- No inventar ni asumir datos: si algo no esta claro, preguntar.
+- Para platos nuevos: no agregarlos a platos.js hasta que Tati apruebe la lista y esten sus fotos.
+- Preferir ingredientes comunes en supermercados de Costa Rica.
+- Tati pide una sola cosa a la vez y un resumen claro al final, con lista de pendientes.
+
+7. PENDIENTES DEL PROYECTO
+- Crear las 128 imagenes (125 nuevas + 3 por reemplazar).
+- Aprobar los 125 platos nuevos y agregarlos al catalogo con minutos y etiquetas.
+- Etiqueta de tipo de comida (desayuno, almuerzo, cena) por plato.
+- Decidir si el tiempo maximo sera filtro estricto o solo indicacion a Gemini.
+- Reglas de condiciones de salud y medicamentos (ver el documento de docs/).
+- Ajustar el texto del error "ninguna sugerencia cumplio..." en el plan.
+- Registrar respuestas de Gemini sin datos personales para diagnostico.
+- Restaurar la linea "Costa Rica" en las instrucciones a Gemini.
+- Integracion a saludintegral.site (no autorizada todavia).

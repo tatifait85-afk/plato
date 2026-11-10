@@ -1,0 +1,153 @@
+MI PLATO INTELIGENTE - 125 IMAGENES DE PLATOS NUEVOS
+
+ESTILO (igual al de las fotos actuales):
+- Foto de comida, vista desde arriba en angulo de unos 60 grados.
+- Plato de ceramica rustica color crema o beige, sobre superficie de piedra o lino beige claro.
+- Luz natural suave, algunas hojas verdes o una tela de lino de fondo, sin personas ni texto.
+- Un solo plato (o tazon) protagonista, bien servido y apetitoso, colores naturales.
+- Formato cuadrado 480x480 px, guardar como .webp con el nombre de archivo indicado.
+
+Cada linea: numero | archivo | nombre del plato | descripcion de lo que debe verse.
+
+== COSTARRICENSE (4) ==
+1. frijoles-molidos-tortilla-queso.webp | Frijoles molidos con tortilla y queso fresco | Frijoles negros molidos cremosos al centro, dos tortillas de maíz calientes y cubos de queso fresco blanco, con cilantro picado.
+2. yuca-ensalada-repollo-frijoles.webp | Yuca cocida con ensalada de repollo y frijoles | Trozos de yuca cocida dorada, ensalada de repollo morado y verde con zanahoria rallada y una porción de frijoles negros enteros.
+3. chayote-relleno-queso-fresco.webp | Chayote relleno de vegetales y queso fresco | Dos mitades de chayote horneado rellenas de vegetales picados y queso fresco ligeramente dorado, con perejil.
+4. pescado-ajillo-arroz.webp | Filete de pescado al ajillo con arroz y ensalada | Filete de pescado blanco dorado con ajo laminado y limón, acompañado de arroz blanco y una ensalada pequeña de lechuga y tomate.
+
+== ESTADOUNIDENSE (14) ==
+5. avena-frutas-nueces.webp | Avena caliente con frutas y nueces | Tazón de avena caliente cubierta con fresas, banano en rodajas, arándanos y nueces troceadas, con un hilo de miel.
+6. panqueques-integrales-frutas.webp | Panqueques integrales con frutas | Pila de tres panqueques integrales gruesos con fresas, banano y arándanos encima, sin jarabe abundante.
+7. bowl-yogurt-granola.webp | Bowl de yogur con granola y frutas | Tazón de yogur natural con granola crujiente, mango, fresas y semillas de chía por encima.
+8. sandwich-aguacate-tomate.webp | Sándwich de aguacate y tomate en pan integral | Sándwich de pan integral cortado en diagonal, abierto para mostrar aguacate en láminas, tomate y hojas de lechuga.
+9. ensalada-cobb.webp | Ensalada Cobb (pollo, huevo, aguacate) | Ensalada en hileras sobre lechuga: pechuga de pollo en tiras, huevo duro en rodajas, aguacate, tomate, tocino magro y queso azul desmenuzado.
+10. sopa-pollo-fideos.webp | Sopa de pollo con fideos y vegetales | Tazón de caldo dorado con fideos finos, trozos de pollo desmenuzado, zanahoria, apio y perejil.
+11. chili-frijoles-vegetal.webp | Chili de frijoles y vegetales con arroz | Tazón de chili espeso de frijoles rojos y negros con maíz, pimiento y tomate, junto a una porción de arroz blanco y aguacate.
+12. pavo-asado-camote.webp | Pechuga de pavo asada con camote y vegetales | Lonjas de pechuga de pavo asada, camote horneado en cubos y brócoli al vapor en el mismo plato.
+13. salmon-plancha-esparragos.webp | Salmón a la plancha con espárragos y papa | Filete de salmón a la plancha con piel dorada, espárragos verdes y papas pequeñas cocidas, con rodaja de limón.
+14. wrap-pollo-vegetales.webp | Wrap de pollo con vegetales | Wrap de tortilla de trigo cortado por la mitad mostrando pollo, lechuga, tomate y pepino, junto a unas rodajas de pepino.
+15. papa-horneada-brocoli.webp | Papa horneada rellena de brócoli | Papa grande horneada abierta por el centro, rellena de floretes de brócoli y queso derretido, con cebollín picado.
+16. pollo-parrilla-ensalada-repollo.webp | Pollo a la parrilla con ensalada de repollo | Muslo o pechuga de pollo a la parrilla con marcas de la plancha, acompañado de ensalada fresca de repollo y zanahoria.
+17. sopa-maiz-papa.webp | Sopa cremosa de maíz y papa (sin crema) | Tazón de sopa cremosa amarilla de maíz y papa con granos de maíz enteros, cebollín y pimienta.
+18. huevos-tomate-espinaca.webp | Huevos al horno con tomate y espinaca | Cazuelita individual de barro con dos huevos horneados sobre salsa de tomate y espinaca, yema suave.
+
+== MEXICANA (15) ==
+19. huevos-rancheros.webp | Huevos rancheros con frijoles | Dos huevos fritos sobre tortilla de maíz, cubiertos con salsa roja de tomate, junto a frijoles refritos y aguacate.
+20. molletes-frijoles-queso.webp | Molletes de frijoles con queso | Medio pan tipo bolillo tostado cubierto de frijoles, queso gratinado y pico de gallo fresco por encima.
+21. huevos-nopales.webp | Huevos con nopales | Huevos revueltos con tiras de nopal verde y tomate en un plato, con tortillas de maíz al lado.
+22. avena-canela-manzana.webp | Avena con canela y manzana | Tazón de avena cocida con manzana en cubitos, canela en polvo, un palito de canela y nueces opcionales.
+23. sopa-tortilla.webp | Sopa de tortilla con aguacate | Tazón de sopa de tomate rojiza con tiras crujientes de tortilla, aguacate en cubos, queso fresco y cilantro.
+24. quesadillas-hongos.webp | Quesadillas de hongos | Tres quesadillas de tortilla cortadas en triángulos mostrando hongos salteados y queso derretido, con salsa verde.
+25. arroz-mexicano-frijoles.webp | Arroz mexicano con frijoles de la olla | Arroz rojizo con arvejas y zanahoria junto a frijoles de la olla en caldo, con rodaja de limón.
+26. ensalada-nopales.webp | Ensalada de nopales | Ensalada de nopales en cubos con tomate, cebolla morada, cilantro y queso fresco desmenuzado.
+27. pollo-pibil.webp | Pollo en salsa de achiote y naranja | Piezas de pollo en salsa naranja-rojiza de achiote, con cebolla morada encurtida y tortillas de maíz.
+28. tinga-pollo-tostadas.webp | Tinga de pollo en tostadas | Tres tostadas crujientes cubiertas de pollo deshebrado en salsa de chipotle, lechuga, crema y queso.
+29. pescado-veracruzana.webp | Pescado a la veracruzana | Filete de pescado blanco cubierto con salsa de tomate, aceitunas, alcaparras y chiles suaves, con perejil.
+30. sopa-lima-pollo.webp | Sopa de lima con pollo | Tazón de caldo claro con pollo deshebrado, rodajas de lima, tiras de tortilla crujiente y cilantro.
+31. tacos-camote-frijol.webp | Tacos de camote y frijol negro | Tres tacos de tortilla de maíz rellenos de camote asado en cubos y frijol negro, con cebolla morada y cilantro.
+32. calabacitas-maiz-tortilla.webp | Calabacitas con maíz y tortillas | Plato de calabacitas (zucchini) salteadas con granos de maíz y tomate, con tortillas de maíz dobladas al lado.
+33. tamales-vegetales.webp | Tamales de vegetales | Dos tamales abiertos en su hoja de plátano o maíz mostrando masa amarilla rellena de vegetales, con salsa roja.
+
+== CHINA (17) ==
+34. congee-arroz-jengibre.webp | Congee de arroz con jengibre y vegetales | Tazón blanco de congee (arroz caldoso) con jengibre en tiritas, cebollín, zanahoria y unas gotas de aceite de sésamo.
+35. huevo-vapor-cebollino.webp | Huevo al vapor con cebollino | Huevo al vapor de textura suave y lisa en un tazón, con cebollino picado y un hilo de salsa de soya.
+36. sopa-huevo-maiz.webp | Sopa de huevo y maíz | Tazón de sopa dorada con hilos de huevo, granos de maíz y cebollín picado.
+37. sopa-tofu-hongos.webp | Sopa de tofu y hongos | Tazón de caldo claro con cubos de tofu blanco, hongos laminados, cebollín y jengibre.
+38. tofu-mapo-suave.webp | Tofu salteado en salsa suave | Cubos de tofu suave en salsa rojiza ligera con cebollín, sobre un lado de arroz blanco al vapor.
+39. brocoli-ajo-arroz.webp | Brócoli salteado con ajo y arroz | Brócoli verde brillante salteado con láminas de ajo, junto a un montículo de arroz blanco.
+40. pollo-vegetales-salteados.webp | Pollo salteado con vegetales | Tiras de pollo salteadas con pimiento rojo y amarillo, brócoli y zanahoria, con salsa brillante, sobre arroz.
+41. pescado-vapor-jengibre.webp | Pescado al vapor con jengibre | Filete de pescado blanco al vapor cubierto con tiritas de jengibre, cebollín y un hilo de salsa de soya.
+42. res-brocoli.webp | Res con brócoli | Tiras de res tierna con floretes de brócoli verde en salsa oscura brillante, con arroz blanco al lado.
+43. vermicelli-arroz-vegetales.webp | Vermicelli (fideos de arroz) con vegetales | Nido de fideos finos de arroz salteados con zanahoria, pimiento, col y cebollín.
+44. bok-choy-hongos.webp | Bok choy con hongos | Bok choy (col china) verde salteado con hongos shiitake y láminas de ajo.
+45. rollitos-primavera-frescos.webp | Rollitos primavera frescos | Tres rollitos translúcidos de papel de arroz rellenos de lechuga, zanahoria, pepino y menta, con salsa para mojar.
+46. tortilla-huevo-vegetales-china.webp | Tortilla de huevo con vegetales | Tortilla de huevo doblada con cebollín, zanahoria y pimiento visibles, cortada en porciones.
+47. arroz-frito-vegetales.webp | Arroz frito de vegetales | Arroz frito dorado con arvejas, zanahoria en cubitos, maíz y cebollín, en un tazón.
+48. edamame-ensalada-pepino.webp | Ensalada de pepino y edamame | Ensalada de pepino en rodajas finas con edamame verde, semillas de sésamo y cebollín.
+49. camote-al-vapor-tofu.webp | Camote al vapor con tofu | Camote anaranjado al vapor en trozos junto a cubos de tofu dorado y cebollín picado.
+50. sopa-wonton-pollo.webp | Sopa de wonton de pollo | Tazón de caldo claro con cuatro wontons rellenos de pollo, bok choy y cebollín.
+
+== ITALIANA (17) ==
+51. frittata-vegetales.webp | Frittata de vegetales | Porción triangular de frittata dorada mostrando calabacín, pimiento y cebolla, con hojas de albahaca.
+52. bruschetta-tomate.webp | Bruschetta de tomate y albahaca | Tres rebanadas de pan tostado cubiertas de tomate fresco en cubos, albahaca y un hilo de aceite de oliva.
+53. ensalada-caprese.webp | Ensalada caprese | Rodajas alternadas de tomate rojo y mozzarella fresca con hojas de albahaca y aceite de oliva.
+54. polenta-hongos.webp | Polenta cremosa con hongos | Polenta amarilla cremosa en un plato hondo cubierta con hongos salteados y perejil.
+55. sopa-pasta-fagioli.webp | Sopa de pasta y frijoles | Tazón de sopa espesa con pasta corta, frijoles blancos, tomate, zanahoria y albahaca.
+56. pasta-pomodoro.webp | Pasta al pomodoro | Plato de espagueti con salsa de tomate roja simple, hojas de albahaca fresca y un poco de queso rallado.
+57. gnocchi-tomate.webp | Ñoquis de papa con salsa de tomate | Ñoquis de papa redondeados en salsa de tomate con albahaca y queso parmesano rallado.
+58. pollo-cacciatora.webp | Pollo cacciatora | Piezas de pollo guisadas en salsa de tomate con pimiento, cebolla y aceitunas, en cazuela baja.
+59. pescado-pomodoro-alcaparras.webp | Pescado con tomate y alcaparras | Filete de pescado blanco sobre salsa de tomate cherry, con alcaparras y hojas de perejil.
+60. berenjena-parmigiana.webp | Berenjena a la parmesana | Porción cuadrada de berenjena en capas con salsa de tomate y queso gratinado, con albahaca.
+61. ensalada-arroz-italiana.webp | Ensalada de arroz con vegetales | Ensalada fría de arroz con tomate cherry, pimiento, aceitunas negras, pepino y albahaca.
+62. calabacin-relleno.webp | Calabacín relleno de vegetales | Dos mitades de calabacín (zucchini) horneadas rellenas de vegetales picados y queso gratinado.
+63. tostada-ricotta-fruta.webp | Tostada con ricotta y fruta | Rebanada gruesa de pan tostado con ricotta cremosa, higos o fresas en láminas y un hilo de miel.
+64. pizza-integral-vegetales.webp | Pizza integral de vegetales | Pizza integral redonda con tomate, queso derretido, pimiento, hongos, cebolla y albahaca, con una porción cortada.
+65. sopa-lentejas-espinaca-italiana.webp | Sopa de lentejas con espinaca | Tazón de sopa de lentejas marrones con hojas de espinaca, zanahoria y apio, con aceite de oliva por encima.
+66. risotto-vegetales.webp | Risotto de vegetales | Risotto cremoso y brillante con arvejas, zanahoria en cubitos y espárragos, en plato hondo.
+67. tortellini-caldo-vegetal.webp | Tortellini en caldo de vegetales | Tazón de caldo claro con tortellini rellenos, zanahoria en cubitos, perejil y un poco de parmesano.
+
+== CARIBEÑA (19) ==
+68. avena-coco-platano.webp | Avena con coco y plátano | Tazón de avena cremosa con rodajas de plátano maduro caramelizado, coco rallado tostado y canela.
+69. tortilla-huevo-platano.webp | Tortilla de huevo con plátano maduro | Tortilla de huevo doblada junto a rodajas de plátano maduro dorado y unas hojas de cilantro.
+70. batido-bowl-mango-coco.webp | Bowl de mango y coco con semillas | Tazón de puré espeso de mango con trocitos de mango, coco rallado, semillas de chía y rodajas de banano.
+71. moros-cristianos.webp | Moros y cristianos (arroz con frijoles negros) | Arroz mezclado con frijoles negros, cebolla y pimiento verde, con una rodaja de limón y cilantro.
+72. tostones-ensalada.webp | Tostones con ensalada de repollo | Cuatro tostones dorados y aplastados junto a una ensalada de repollo con zanahoria y limón.
+73. pollo-guisado-caribeno.webp | Pollo guisado caribeño | Piezas de pollo guisadas en salsa criolla de tomate, cebolla y pimiento, con arroz blanco al lado.
+74. sopa-yuca-frijol.webp | Sopa de yuca y frijol | Tazón de sopa con trozos de yuca, frijoles, zanahoria y cilantro.
+75. pescado-criollo.webp | Pescado criollo con tomate y pimiento | Filete de pescado cubierto con salsa criolla de tomate, cebolla y pimientos de colores, con arroz.
+76. curry-garbanzos-papa-caribeno.webp | Curry de garbanzos y papa estilo caribeño | Curry amarillo de garbanzos y papa en cubos con cilantro, junto a arroz blanco.
+77. arroz-gandules.webp | Arroz con gandules | Arroz amarillento con gandules (guandú) verdes, pimiento y cilantro en un plato.
+78. ensalada-papaya-frijol.webp | Ensalada de papaya y frijol | Ensalada de papaya en cubos con frijoles negros, cebolla morada, cilantro y limón.
+79. camarones-coco.webp | Camarones al coco con arroz | Camarones rosados en salsa cremosa de coco con cilantro y arroz blanco al lado.
+80. sopa-pescado-coco.webp | Sopa de pescado con coco | Tazón de sopa lechosa de coco con trozos de pescado blanco, tomate y cilantro.
+81. yuca-guisada-tomate.webp | Yuca guisada con tomate y cebolla | Trozos de yuca guisados con tomate, cebolla y cilantro, en un plato hondo.
+82. pimientos-rellenos-arroz.webp | Pimientos rellenos de arroz y frijoles | Dos pimientos de colores horneados rellenos de arroz y frijoles negros, con cilantro.
+83. calabaza-guisada-coco.webp | Calabaza guisada en coco | Cubos de calabaza anaranjada en salsa ligera de coco, con cilantro y un poco de chile rojo.
+84. res-guisada-name.webp | Res guisada con ñame | Trozos de res guisada con ñame y zanahoria en salsa oscura, con cilantro.
+85. pan-coco-aguacate.webp | Pan integral con aguacate y coco | Dos rebanadas de pan integral con aguacate machacado, coco rallado y un toque de limón.
+86. ensalada-pina-pollo.webp | Ensalada de piña con pollo | Ensalada con trozos de piña, pollo desmenuzado, lechuga, pepino y cilantro.
+
+== INDIA (19) ==
+87. poha-vegetales.webp | Poha (arroz aplanado con vegetales) | Plato de poha (arroz aplanado) amarillo por cúrcuma con arvejas, zanahoria, maní o cebolla, y limón.
+88. upma-vegetales.webp | Upma de sémola con vegetales | Montículo de upma (sémola cocida) con zanahoria, arvejas y cebolla, con cilantro por encima.
+89. chilla-garbanzo.webp | Chilla (crepas de harina de garbanzo) | Dos crepas finas de harina de garbanzo con cebolla, tomate y cilantro visibles, con chutney verde.
+90. huevos-bhurji.webp | Huevos revueltos estilo bhurji | Huevos revueltos especiados con tomate, cebolla y chile verde, con pan plano al lado.
+91. chana-masala.webp | Chana masala (garbanzos especiados) | Garbanzos en salsa rojiza especiada con cilantro y cebolla, con arroz o pan plano.
+92. aloo-gobi.webp | Aloo gobi (papa y coliflor) | Papa y coliflor amarillentos por cúrcuma salteados con cilantro y chile verde.
+93. palak-tofu.webp | Espinaca con tofu estilo palak | Salsa verde de espinaca con cubos de tofu, un hilo de crema vegetal y pan plano.
+94. sopa-lentejas-india-limon.webp | Sopa de lentejas con limón | Tazón de sopa de lentejas amarillas con rodaja de limón, cilantro y comino.
+95. khichdi.webp | Khichdi (arroz y lentejas) | Plato hondo de arroz y lentejas cocidos juntos de textura suave, amarillento, con cilantro.
+96. pollo-curry-india.webp | Pollo al curry | Piezas de pollo en salsa naranja de curry con cilantro y arroz basmati.
+97. pescado-curry-coco.webp | Pescado al curry de coco | Filete de pescado en salsa de curry con coco color amarillo-anaranjado, con hojas de cilantro.
+98. baingan-bharta.webp | Berenjena asada especiada | Puré rústico de berenjena asada con tomate, cebolla y cilantro, con pan plano.
+99. raita-pepino-arroz.webp | Arroz con raita de pepino | Plato de arroz basmati junto a un tazón pequeño de yogur con pepino rallado y comino.
+100. rajma-frijoles-rojos.webp | Rajma (frijoles rojos al curry) | Frijoles rojos en salsa espesa de tomate especiada, con arroz blanco al lado y cilantro.
+101. tandoori-pollo-horno.webp | Pollo tandoori al horno | Piezas de pollo rojo-anaranjado con marcas de horno, cebolla morada en aros y limón.
+102. paneer-vegetales.webp | Paneer con vegetales | Cubos de paneer (queso blanco) con pimiento y cebolla en salsa especiada, con cilantro.
+103. sambar-vegetales.webp | Sambar (sopa de lentejas y vegetales) | Tazón de sambar amarillo-rojizo con lentejas, vegetales en trozos (berenjena, zanahoria) y cilantro.
+104. camote-especiado-horno.webp | Camote especiado al horno | Trozos de camote anaranjado horneado con especias y cilantro fresco por encima.
+105. ensalada-kachumber.webp | Ensalada kachumber (pepino, tomate, cebolla) | Ensalada fresca de pepino, tomate y cebolla morada en cubitos con cilantro y limón.
+
+== JAPONESA (20) ==
+106. onigiri-vegetales.webp | Onigiri (bolas de arroz) con vegetales | Dos onigiri triangulares de arroz envueltos parcialmente en alga nori, con pepino y zanahoria al lado.
+107. sopa-miso-tofu.webp | Sopa de miso con tofu | Tazón pequeño de sopa de miso turbia con cubos de tofu, alga wakame y cebollín.
+108. tamagoyaki.webp | Tamagoyaki (tortilla japonesa) | Rollo de tortilla japonesa dorada cortado en rodajas, con rábano rallado al lado.
+109. donburi-pollo-huevo.webp | Donburi de pollo y huevo | Tazón de arroz cubierto con pollo, huevo suave y cebolla en salsa, con cebollín.
+110. salmon-teriyaki-arroz.webp | Salmón teriyaki con arroz | Filete de salmón glaseado con salsa teriyaki brillante, arroz blanco y brócoli.
+111. ensalada-pepino-sunomono.webp | Ensalada de pepino sunomono | Pepino finamente laminado en aderezo claro con semillas de sésamo y alga wakame.
+112. tofu-agedashi.webp | Tofu agedashi | Cubos de tofu fritos ligeros en caldo claro con rábano rallado, cebollín y jengibre.
+113. udon-vegetales.webp | Udon con vegetales | Tazón de fideos udon gruesos en caldo claro con hongos, zanahoria, espinaca y cebollín.
+114. okonomiyaki-vegetales.webp | Okonomiyaki de repollo | Panqueque redondo salado de repollo con salsa oscura en zigzag y cebollín.
+115. gyoza-vegetales-vapor.webp | Gyoza de vegetales al vapor | Cinco gyozas al vapor en forma de media luna con salsa de soya para mojar y cebollín.
+116. arroz-curry-japones.webp | Curry japonés de vegetales con arroz | Arroz blanco junto a salsa de curry marrón suave con papa, zanahoria y cebolla.
+117. sopa-pollo-jengibre-japonesa.webp | Sopa de pollo con jengibre | Tazón de caldo claro con pollo desmenuzado, jengibre en tiras, hongos y cebollín.
+118. ensalada-algas-wakame.webp | Ensalada de algas wakame | Ensalada de algas verde oscuro con semillas de sésamo y rodajas finas de pepino.
+119. berenjena-miso.webp | Berenjena glaseada con miso | Mitades de berenjena asada con glaseado marrón de miso, sésamo y cebollín.
+120. atun-sellado-arroz.webp | Atún sellado con arroz y vegetales | Lonjas de atún sellado por fuera y rosado por dentro, con arroz y vegetales.
+121. chawanmushi.webp | Chawanmushi (flan salado al vapor) | Flan salado de huevo en tacita con superficie lisa amarilla pálida, un hongo y cebollín.
+122. yasai-itame.webp | Vegetales salteados estilo japonés | Vegetales salteados mixtos (repollo, zanahoria, brócoli, hongos) brillantes en un plato.
+123. temaki-vegetales.webp | Temaki (cono de alga) de vegetales | Dos conos de alga nori rellenos de arroz, aguacate, pepino y zanahoria en tiras.
+124. okayu-arroz-vegetales.webp | Okayu (arroz caldoso) con vegetales | Tazón de arroz caldoso blanco con zanahoria, hongos y cebollín.
+125. pollo-yakitori-arroz.webp | Pollo yakitori con arroz | Tres pinchos de pollo glaseado con marcas de parrilla junto a arroz blanco y cebollín.
+
+Total: 125 imagenes.
